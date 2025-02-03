@@ -4,7 +4,9 @@ title: Map
 permalink: /map
 ---
 
-<iframe width="640" height="480" src="https://www.polarsteps.com/Datrio/14902449-around-the-world/embed"></iframe>
+## Where am I now?
+
+{% include current_city.txt %} (probably)
 
 ## Bigger stops
 
@@ -14,3 +16,7 @@ permalink: /map
 * Japan (1.04 - 31.05)
 * Berlin (Summer)
 * Australia (Autumn)
+
+## Polar Steps
+
+<iframe width="640" height="480" src="https://www.polarsteps.com/Datrio/14902449-around-the-world/embed"></iframe>
