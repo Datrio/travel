@@ -3,7 +3,7 @@ layout: post
 title:  "Running Towards Something: My Journey Begins"
 date:   2024-10-07 21:14:40 +0700
 categories: meta
-image: 2024-10-07/bangkok-1.jpg
+image: assets/img/2024-10-07/bangkok-1.jpg
 ---
 
 In 2024, I faced some challenging times. Every new year, I kept telling myself that the next one would be better, but life often had other plans. Over the past 10 years I have dealt with issues at work, went through breakups, and experienced the loss of loved ones. No matter what I tried throughout each year, I found it hard to say that I was truly happy by the end of it. As 2025 approached, I began wondering: what could I do differently? Was there something I was missing? Was there something about my approach to life that needed to change?
