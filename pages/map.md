@@ -2,6 +2,7 @@
 layout: page
 title: Map
 permalink: /map
+image: assets/img/pages/map.jpg
 ---
 
 ## Where am I now?
