@@ -3,7 +3,7 @@ layout: post
 title:  "Farewell, Berlin: Closing a Chapter, Opening the World"
 date:   2025-01-23 11:13:10 +0100
 categories: meta
-image: assets/img/2025-01-23/berlin-1.jpeg
+image: /assets/img/2025-01-23/berlin-1.jpeg
 ---
 
 My last weeks in Berlin were just like the rest of my time here—chaotic and ever-changing. Originally, I planned to start my trip on January 1st, but at the end of December, I got COVID. It was a mild case, but it threw a wrench into my plans. Though I wasn't thrilled about the delay, I felt a small relief—more time to prepare. I reset the start date for January 22nd, a Wednesday. On that Wednesday, as I boarded the train, I could safely say, "What a week, huh?"

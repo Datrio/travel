@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Map
+title: Where am I now?
 permalink: /map
-image: assets/img/pages/map.jpg
+image: /assets/img/pages/map.jpg
 ---
-
-## Where am I now?
 
 {% include current_city.txt %} (probably)
 
