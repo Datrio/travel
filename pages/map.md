@@ -9,7 +9,7 @@ image: /assets/img/pages/map.jpg
 
 ## Bigger stops
 
-* Spain (30.01 - 17.02)
+* Spain/Portugal (30.01 - 17.02)
 * Egypt (21.02 - 01.03)
 * Thailand (05.03 - 17.03)
 * Japan (1.04 - 31.05)
