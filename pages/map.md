@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Where am I now?
+description: Track me where am I right now and what I'm planning to do next!
 permalink: /map
 image: /assets/img/pages/map.jpg
 ---
