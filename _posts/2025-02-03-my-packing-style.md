@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "My Packing Style: Lessons from the Road"
-date:   2025-02-07 14:52:53 +0100
-image: /assets/img/2025-02-07/packing-1.jpg
+date:   2025-02-03 14:52:53 +0100
+image: /assets/img/2025-02-03/packing-1.jpg
 ---
 
 When preparing for my journey, I had to make some tough decisions about what to keep, what to let go of, and most importantly---what to bring with me. Early on, I spent time reading travel blogs, trying to decipher the best packing strategies. I quickly realized a few key things:
@@ -20,7 +20,7 @@ I purchased my backpack, did a test pack, and thought I had everything under con
 
 ### Clothing
 
-![My first try of packing my clothes](/assets/img/2025-02-07/packing-2.jpg "My first try of packing my clothes")
+![My first try of packing my clothes](/assets/img/2025-02-03/packing-2.jpg "My first try of packing my clothes")
 
 At first, I packed more than I needed:
 
@@ -58,7 +58,7 @@ This might not seem like a drastic change, but dropping just a few bulky items m
 
 ### Electronics
 
-![How much electronics are you taking with you? Yes.](/assets/img/2025-02-07/packing-3.jpg "How much electronics are you taking with you? Yes.")
+![How much electronics are you taking with you? Yes.](/assets/img/2025-02-03/packing-3.jpg "How much electronics are you taking with you? Yes.")
 
 As a self-proclaimed nerd, I knew I'd be carrying more electronics than most travelers:
 
@@ -79,7 +79,7 @@ It's still a lot, and I occasionally question the need for three gaming devices.
 
 ### Miscellaneous Items
 
-![Some of the most important things I need](/assets/img/2025-02-07/packing-4.jpg "Some of the most important things I need")
+![Some of the most important things I need](/assets/img/2025-02-03/packing-4.jpg "Some of the most important things I need")
 
 - Passport & vaccine passport
 - International Driving Permit
@@ -100,7 +100,7 @@ I also received two meaningful gifts from my coworkers before I left: a **[Hobon
 
 As part of my therapy work, I brought along a guided journal. I struggle with writing freely, so having prompts has been incredibly helpful in structuring my thoughts.
 
-![Some fun and games](/assets/img/2025-02-07/packing-5.jpg "Some fun and games")
+![Some fun and games](/assets/img/2025-02-03/packing-5.jpg "Some fun and games")
 
 ## Refinements: Packing Smarter
 
