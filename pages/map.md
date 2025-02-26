@@ -6,16 +6,14 @@ permalink: /map
 image: /assets/img/pages/map.jpg
 ---
 
-{% include current_city.txt %} (probably)
+{% include current_city.txt %}
 
 ## Bigger stops
 
 * Spain/Portugal (30.01 - 17.02)
 * Egypt (21.02 - 01.03)
 * Thailand (05.03 - 17.03)
-* Japan (1.04 - 31.05)
-* Berlin (Summer)
-* Australia (Autumn)
+* Japan (mid March - mid June)
 
 ## Polar Steps
 
