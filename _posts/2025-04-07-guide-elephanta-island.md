@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Visit Elephanta Island Without Losing Your Mind"
 date:   2025-04-07 20:09:27 +0800
-categories: guide, india
+categories: guide
 image: /assets/img/2025-04-07/elephanta-1.jpg
 ---
 

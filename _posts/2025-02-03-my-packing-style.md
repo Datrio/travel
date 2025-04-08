@@ -2,7 +2,7 @@
 layout: post
 title:  "My Packing Style: Lessons from the Road"
 date:   2025-02-03 14:52:53 +0100
-categories: guide, meta
+categories: guide
 image: /assets/img/2025-02-03/packing-1.jpg
 ---
 

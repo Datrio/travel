@@ -2,6 +2,7 @@
 layout: post
 title:  "Farewell, Berlin: Closing a Chapter, Opening the World"
 date:   2025-01-23 11:13:10 +0100
+categories: meta
 image: /assets/img/2025-01-23/berlin-1.jpeg
 ---
 
