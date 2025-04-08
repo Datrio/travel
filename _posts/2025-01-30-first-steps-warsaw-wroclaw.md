@@ -3,6 +3,7 @@ layout: post
 title:  "First Steps: Warsaw and Wrocław"
 date:   2025-01-30 11:34:02 +0100
 categories: city-review
+tags:  city-review
 image: /assets/img/2025-01-30/warsaw-1.jpg
 ---
 

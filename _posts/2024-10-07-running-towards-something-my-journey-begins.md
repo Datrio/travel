@@ -3,6 +3,7 @@ layout: post
 title:  "Running Towards Something: My Journey Begins"
 date:   2024-10-07 21:14:40 +0700
 categories: meta
+tags:  meta
 image: /assets/img/2024-10-07/bangkok-1.jpg
 ---
 

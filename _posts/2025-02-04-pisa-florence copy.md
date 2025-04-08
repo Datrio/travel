@@ -3,6 +3,7 @@ layout: post
 title:  "Italy Off-Season: A Quiet Pisa and a Lively Florence"
 date:   2025-02-04 16:39:41 +0100
 categories: city-review
+tags:  city-review
 image: /assets/img/2025-02-04/pisa-1.jpg
 ---
 
