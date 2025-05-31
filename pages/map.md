@@ -14,6 +14,7 @@ image: /assets/img/pages/map.jpg
 * Egypt (21.02 - 01.03)
 * Thailand (05.03 - 17.03)
 * Japan (mid March - mid June)
+* Malaysia (mid June - mid September)
 
 ## Polar Steps
 
